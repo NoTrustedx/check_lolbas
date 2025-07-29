@@ -3,7 +3,6 @@ Herramienta en Python para verificar rápidamente si una lista de binarios de Wi
 
 ---
 
-```markdown
 # 🔍 check_lolbas.py
 
 **check_lolbas.py** es una herramienta en Python para verificar rápidamente si una lista de binarios de Windows (por ejemplo, `*.exe`) están documentados como LOLBins en el proyecto [LOLBAS](https://lolbas-project.github.io/).
