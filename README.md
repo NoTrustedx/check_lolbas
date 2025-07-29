@@ -1,6 +1,5 @@
 # check_lolbas
 Herramienta en Python para verificar rápidamente si una lista de binarios de Windows están documentados como LOLBins en el proyecto [LOLBAS](https://lolbas-project.github.io/).
-Aquí tienes un `README.md` listo para subir a tu repositorio de GitHub. Está orientado a un público técnico y pensado para tu presentación en conferencias como BSidesPerú:
 
 ---
 
