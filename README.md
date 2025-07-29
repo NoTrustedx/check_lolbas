@@ -87,15 +87,10 @@ Binarios NO encontrados en LOLBAS (10):
 
 ## 📚 Créditos
 
-Este script fue creado por **Erick O.** como parte de una investigación sobre binarios olvidados utilizados en operaciones ofensivas y persistencia post-explotación. Más detalles en la charla **"LOLBins Shadow Warfare"**.
+Este script fue creado por **ErickO.** como parte de una investigación sobre binarios olvidados utilizados en operaciones ofensivas y persistencia post-explotación.
 
 ## 📄 Licencia
 
-MIT License
+MIT License is a permissive free software license originating from the Massachusetts Institute of Technology (MIT).
 
-```
-
----
-
-¿Deseas que te genere también el `requirements.txt` o un `setup.py` para distribuirlo como paquete?
 ```
