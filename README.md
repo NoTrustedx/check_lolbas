@@ -35,6 +35,14 @@ Este script fue desarrollado como parte del proyecto de investigación **LOLBins
 - Python 3.8+
 - Librerías:
 
+💡 Instrucciones para instalar dependencias:
+Después de clonar el repositorio, puedes instalar las dependencias con:
+```bash
+pip install -r requirements.txt
+````
+
+---
+
 ```bash
 pip install requests beautifulsoup4 colorama
 ````
