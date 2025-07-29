@@ -7,7 +7,7 @@ Herramienta en Python para verificar rápidamente si una lista de binarios de Wi
 
 **check_lolbas.py** es una herramienta en Python para verificar rápidamente si una lista de binarios de Windows (por ejemplo, `*.exe`) están documentados como LOLBins en el proyecto [LOLBAS](https://lolbas-project.github.io/).
 
-Este script fue desarrollado como parte del proyecto de investigación **LOLBins Shadow Warfare**, presentado en conferencias de ciberseguridad como BSides.
+Este script fue desarrollado como parte del proyecto de investigación **LOLBins Shadow Warfare**
 
 ## 🚀 Características
 
